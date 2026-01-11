@@ -1,1 +1,5 @@
-export default function App(){}
+import RoutesApp from "./routes";
+
+export default function App() {
+  return <RoutesApp />;
+}
